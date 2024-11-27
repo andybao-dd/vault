@@ -1,0 +1,3 @@
+backends='stdout'
+flush-interval="2s"
+hostname="vault-benchy"
